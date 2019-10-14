@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "商铺信息",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "√",
+        "fontSize": "24px"
+      }
+    ]
+  },
+  "usingComponents": {
+    "choose-image": "/components/chooseImage"
+  }
+}

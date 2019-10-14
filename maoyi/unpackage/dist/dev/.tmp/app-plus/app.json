@@ -1,0 +1,143 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/tabBar/home/home",
+    "pages/tabBar/issue/issue",
+    "pages/tabBar/issue/issues",
+    "pages/tabBar/cart/cart",
+    "pages/tabBar/user/user",
+    "pages/goods/goods",
+    "pages/login/login",
+    "pages/login/register",
+    "pages/login/resetpasswd",
+    "pages/user/realName/realName",
+    "pages/order/bidding",
+    "pages/order/confirmation",
+    "pages/user/setting/setting",
+    "pages/user/competitive/competitive",
+    "pages/user/myname/myname",
+    "pages/user/account/account",
+    "pages/search/search",
+    "pages/user/account/password/password",
+    "pages/user/account/phone/phone",
+    "pages/user/account/mail/mail",
+    "pages/user/signature/signature",
+    "pages/integral/integral",
+    "pages/user/security/security",
+    "pages/user/language/language",
+    "pages/user/myQR/myQR",
+    "pages/msg/msg",
+    "pages/msg/friend/friend",
+    "pages/msg/address/address",
+    "pages/msg/userinfo/userinfo",
+    "pages/msg/search/search",
+    "pages/msg/chat/chat",
+    "pages/user/coupon/coupon",
+    "pages/product/product",
+    "pages/shop/shop",
+    "pages/shop/shopType/shopType",
+    "pages/shop/shopInfo/shopInfo",
+    "pages/shop/shopPicture/shopPicture",
+    "pages/shop/Decoration/Decoration",
+    "pages/product/addProduct/addProduct",
+    "pages/user/personal/personal",
+    "pages/user/personal/phone/phone",
+    "pages/user/personal/mail/mail",
+    "pages/user/keep/keep",
+    "pages/user/address/address",
+    "pages/user/address/edit/edit",
+    "pages/user/deposit/deposit",
+    "pages/pay/payment/payment",
+    "pages/pay/success/success",
+    "pages/goods/ratings/ratings",
+    "pages/shop/check/check",
+    "pages/shop/shopDetails/shopDetails"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#ffffff",
+    "backgroundColorTop": "#ffffff",
+    "backgroundColorBottom": "#ffffff"
+  },
+  "tabBar": {
+    "color": "#333333",
+    "selectedColor": "#e84148",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/tabBar/home/home",
+        "iconPath": "static/img/tabBar/home.png",
+        "selectedIconPath": "static/img/tabBar/home-on.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/tabBar/category/category",
+        "iconPath": "static/img/tabBar/category.png",
+        "selectedIconPath": "static/img/tabBar/category-on.png",
+        "text": "分类"
+      },
+      {
+        "pagePath": "pages/tabBar/issue/issues",
+        "iconPath": "static/img/tabBar/issue_1.png",
+        "selectedIconPath": "static/img/tabBar/issue.png",
+        "text": "发布"
+      },
+      {
+        "pagePath": "pages/msg/msg",
+        "iconPath": "static/img/tabBar/message_1.png",
+        "selectedIconPath": "static/img/tabBar/message.png",
+        "text": "消息"
+      },
+      {
+        "pagePath": "pages/tabBar/user/user",
+        "iconPath": "static/img/tabBar/user.png",
+        "selectedIconPath": "static/img/tabBar/user-on.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "nvue": {
+    "pages": {
+      "pages/user/order_list/order_list.html": {
+        "window": {
+          "usingComponents": {},
+          "navigationBarTitleText": "我的订单",
+          "navigationBarBackgroundColor": "#e84148",
+          "backgroundColorTop": "#f3f3f3",
+          "backgroundColorBottom": "#ffffff"
+        },
+        "nvue": true
+      },
+      "pages/goods/goods-list/goods-list.html": {
+        "window": {
+          "usingComponents": {},
+          "navigationBarTitleText": "",
+          "enablePullDownRefresh": true,
+          "bounce": "none"
+        },
+        "nvue": true
+      },
+      "pages/tabBar/category/category.html": {
+        "window": {
+          "usingComponents": {},
+          "navigationBarTextStyle": "black",
+          "titleNView": false,
+          "bounce": "none"
+        },
+        "nvue": true
+      }
+    }
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "maoyi",
+  "compilerVersion": "2.2.2",
+  "usingComponents": {}
+}

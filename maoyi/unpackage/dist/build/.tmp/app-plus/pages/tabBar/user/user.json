@@ -1,0 +1,16 @@
+{
+  "enablePullDownRefresh": true,
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#e84148",
+  "backgroundColorTop": "#e84148",
+  "navigationBarTextStyle": "white",
+  "titleNView": false,
+  "subNVues": [
+    {
+      "id": "userTitleNvue",
+      "path": "pages/tabBar/user/subNvue/userTitleNvue",
+      "type": "navigationBar"
+    }
+  ],
+  "usingComponents": {}
+}

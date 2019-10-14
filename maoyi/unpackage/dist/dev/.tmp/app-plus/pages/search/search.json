@@ -1,0 +1,23 @@
+{
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTitleText": "",
+  "backgroundColorTop": "#ffffff",
+  "navigationBarTextStyle": "white",
+  "backgroundColorBottom": "#f3f3f3",
+  "bounce": "none",
+  "titleNView": {
+    "searchInput": {
+      "align": "left",
+      "borderRadius": "50px",
+      "placeholder": "搜索感兴趣商品"
+    },
+    "buttons": [
+      {
+        "float": "right",
+        "fontSize": "14px",
+        "text": "搜索"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

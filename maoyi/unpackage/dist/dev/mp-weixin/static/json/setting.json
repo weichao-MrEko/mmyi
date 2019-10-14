@@ -1,0 +1,28 @@
+{
+	"zh":{
+		"title":"设置",
+		"head":"头像",
+		"nickname":"昵称",
+		"signature":"个性签名",
+		"security":"账号安全",
+		"versions":"版本升级",
+		"selectLanguage":"选择语言",
+		"clearCache":"清除缓存",
+		"feedback":"问题反馈",
+		"AboutUs":"关于我们",
+		"exit":"退出"
+	},
+	"en":{
+		"title":"Setting",
+		"head":"Head Portrait ",
+		"nickname":"Nick Name",
+		"signature":"Personalized Signature",
+		"security":"Account Security",
+		"versions":"Version Upgrade",
+		"selectLanguage":"Select Language",
+		"clearCache":"Clear Cache",
+		"feedback":"Problem Feedback",
+		"AboutUs":"About Us",
+		"exit":"exit"
+	}
+}

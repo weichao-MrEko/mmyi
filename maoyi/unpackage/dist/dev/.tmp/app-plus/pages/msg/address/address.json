@@ -1,0 +1,9 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "通讯录",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-indexed-list": "/components/uni-indexed-list/uni-indexed-list"
+  }
+}

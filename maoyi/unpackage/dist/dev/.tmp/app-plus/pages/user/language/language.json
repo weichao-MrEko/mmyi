@@ -1,0 +1,9 @@
+{
+  "navigationBarBackgroundColor": "#f8f8f8",
+  "navigationBarTitleText": "选择语言",
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#f3f3f3",
+  "titleNView": false,
+  "bounce": "none",
+  "usingComponents": {}
+}

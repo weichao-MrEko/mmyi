@@ -1,0 +1,32 @@
+{
+	"zh":{
+		"title":"账户管理",
+		"titleType1":"安全设置",
+		"ChangePassword":"修改密码",
+		
+		"titleType2":"账号认证",
+		"phoneAuthentication":"手机认证",
+		"RealNameAuthentication":"实名认证",
+		"MailAuthentication":"邮箱认证",
+		"titleType3":"账号绑定",
+		"qqBinding":"QQ",
+		"wxBinding":"微信",
+		"NotBound":"未绑定",
+		"IsBinding":"已绑定"
+	},
+	"en":{
+		"title":"Account Management",
+		"titleType1":"安全设置",
+		"ChangePassword":"修改密码",
+		
+		"titleType2":"Account authentication",
+		"phoneAuthentication":"phone Authentication",
+		"RealNameAuthentication":"Real Name Authentication",
+		"MailAuthentication":"Mail Authentication",
+		"titleType3":"账号绑定",
+		"qqBinding":"QQ",
+		"wxBinding":"Wechat",
+		"NotBound":"NotBound",
+		"IsBinding":"IsBinding"
+	}
+}

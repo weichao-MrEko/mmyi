@@ -1,0 +1,1 @@
+<view><view class="list"><view class="row"><input type="text" placeholder="请输入手机号" data-event-opts="{{[['input',[['__set_model',['','mobile','$event',[]]]]]]}}" value="{{mobile}}" bindinput="__e"/></view></view><button type="primary" data-event-opts="{{[['tap',[['btn',['$event']]]]]}}" bindtap="__e">绑定手机</button></view>

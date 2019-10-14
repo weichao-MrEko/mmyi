@@ -1,0 +1,16 @@
+{
+	"zh":{
+		"home":"首页",
+		"category":"分类",
+		"issue":"发布",
+		"cart":"消息",
+		"user":"我的"
+	},
+	"en":{
+		"home":"Home",
+		"category":"Category",
+		"issue":"Publish",
+		"cart":"Message",
+		"user":"Me"
+	}
+}

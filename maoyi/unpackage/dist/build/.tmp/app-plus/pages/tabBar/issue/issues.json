@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "发布需求",
+  "backgroundTextStyle": "light",
+  "navigationBarBackgroundColor": "#e84148",
+  "backgroundColorTop": "#FFFFFF",
+  "navigationBarTextStyle": "white",
+  "titleNView": true,
+  "bounce": "none",
+  "usingComponents": {}
+}

@@ -1,0 +1,2 @@
+<import src="./bidding.vue.wxml" />
+    <template is="da48ed54" data="{{ ...$root['0'], $root }}"/>

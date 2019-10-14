@@ -1,0 +1,148 @@
+{
+	"zh":{
+		"title":"积分管理",
+		"integral":"积分",
+		"introduce":"贸易通过日常操作获得积分，当贸易获得的积分达到一定数量时，可以参与今后的积分抽奖，抵用，兑换活动",
+		"typelist":[{"id":0,"text":"获取积分"},{"id":1,"text":"使用积分"}],
+		"tasklist":[
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"签到送积分",
+				"text":"每日签到获得2积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"好任务，看不停",
+				"text":"每天查看5次任务，可以获得5积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"分享送积分",
+				"text":"每次分享，可以获得30积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"认证送积分",
+				"text":"完成手机，实名认证，可以获得100积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"交稿送积分",
+				"text":"每天交稿5次，可以获得10积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"注册送积分",
+				"text":"完成注册，可以获得50积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"设置送积分",
+				"text":"完成位置设置，可以获得50积分",
+				"url":"",
+				"btn":"前往"
+			},
+			{
+				"type":1,
+				"img":"/static/img/qiandao.png",
+				"title":"积分兑换",
+				"text":"奖励拿不完",
+				"url":"",
+				"btn":"前往"
+			}
+			
+		]
+	},
+	"en":{
+		"title":"Point management",
+		"integral":"Integral",
+		"introduce":"Points are earned through daily operations. When the points obtained through trade reach a certain amount, they can participate in future bonus draw, offset and exchange activities",
+		"typelist":[{"id":0,"text":"For points"},{"id":1,"text":"Using the integral"}],
+		"tasklist":[
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Check in and give credits",
+				"text":"2 points for daily check-in",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Good job. Keep watching",
+				"text":"5 credits can be earned by checking 5 tasks per day",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Sharing points",
+				"text":"Each time you share, you get 30 points",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Certification credit",
+				"text":"You get 100 points for your mobile phone if you complete the real-name authentication",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Credits for delivery",
+				"text":"You get 10 credits for submitting 5 times a day",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Registration points",
+				"text":"You get 50 points for completing registration",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":0,
+				"img":"/static/img/qiandao.png",
+				"title":"Set send integral",
+				"text":"Complete the position setting, you can get 50 credits",
+				"url":"",
+				"btn":"GO"
+			},
+			{
+				"type":1,
+				"img":"/static/img/qiandao.png",
+				"title":"Credits exchange",
+				"text":"You can't run out of rewards",
+				"url":"",
+				"btn":"GO"
+			}
+			
+		]
+	}
+}

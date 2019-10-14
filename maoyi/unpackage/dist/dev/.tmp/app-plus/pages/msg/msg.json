@@ -1,0 +1,15 @@
+{
+  "enablePullDownRefresh": true,
+  "navigationBarTitleText": "消息列表",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "+"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

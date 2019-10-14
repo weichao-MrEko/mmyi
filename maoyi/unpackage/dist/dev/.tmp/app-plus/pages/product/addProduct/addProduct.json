@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "添加商品",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "usingComponents": {
+    "uni-richtext": "/components/uni-richtext",
+    "choose-image": "/components/chooseImage"
+  }
+}

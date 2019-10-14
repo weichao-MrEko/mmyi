@@ -1,0 +1,8 @@
+{
+  "usingComponents": {},
+  "navigationBarBackgroundColor": "#f06c7a",
+  "navigationBarTitleText": "账号管理",
+  "backgroundColorTop": "#ffffff",
+  "navigationBarTextStyle": "white",
+  "backgroundColorBottom": "#f3f3f3"
+}

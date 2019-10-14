@@ -1,0 +1,1 @@
+<view class="signature"><view class="inputbox"><textarea value="{{sign}}" placeholder="{{details.placeholder}}" data-event-opts="{{[['input',[['__set_model',['','sign','$event',[]]]]]]}}" bindinput="__e"></textarea></view><button class="mini-btn" type="warn" data-event-opts="{{[['tap',[['btn',['$event']]]]]}}" bindtap="__e">{{details.btn}}</button></view>

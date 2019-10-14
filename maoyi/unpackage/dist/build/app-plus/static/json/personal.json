@@ -1,0 +1,25 @@
+{
+	"zh":{
+		"title":"个人资料",
+		"head":"头像",
+		"nickname":"昵称",
+		"signature":"个性签名",
+		"titleType":"联系方式",
+		"phone":"手机号码",
+		"WechatID":"微信号",
+		"qq":"QQ",
+		"mail":"邮箱地址"
+	
+	},
+	"en":{
+		"title":"personal Data",
+		"head":"Head Portrait ",
+		"nickname":"Nick Name",
+		"signature":"Personalized Signature",
+		"titleType":"Contact Information",
+		"phone":"phone",
+		"WechatID":"Wechat ID",
+		"qq":"QQ ID",
+		"mail":"E-mail"
+	}
+}

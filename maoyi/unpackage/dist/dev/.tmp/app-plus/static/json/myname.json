@@ -1,0 +1,12 @@
+{
+	"zh":{
+		"title":"昵称",
+		"placeholder":"请输入昵称",
+		"btn":"保存"
+	},
+	"en":{
+		"title":"Nick Name",
+		"placeholder":"Please enter nickname",
+		"btn":"Save"
+	}
+}

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "企业认证",
+  "enablePullDownRefresh": true,
+  "onReachBottomDistance": 50,
+  "backgroundColorTop": "#ffffff",
+  "backgroundColorBottom": "#ffffff",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#e84148",
+  "titleNView": {},
+  "usingComponents": {
+    "choose-image": "/components/chooseImage"
+  }
+}

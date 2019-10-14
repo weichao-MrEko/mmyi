@@ -1,0 +1,1 @@
+<view><view class="shopType"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__"><view data-event-opts="{{[['tap',[['toPage',['$0'],[[['list','',__i0__,'url']]]]]]]}}" class="row" bindtap="__e"><view class="row-img"><image src="{{item.src}}"></image></view><view class="row-name">{{item.name}}</view></view></block></view></view>

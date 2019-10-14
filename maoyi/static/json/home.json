@@ -1,0 +1,54 @@
+{
+	"zh":{
+		"data":[
+			{
+				"id":170,
+				"name":"电视工厂",
+				"pic":"/static/img/category/tv.png"
+				
+			},
+			{
+				"id":169,
+				"name":"小视听厂",
+				"pic":"/static/img/category/yingyinst.png"
+				
+			},
+			{
+				"id":241,
+				"name":"民用音响",
+				"pic":"/static/img/category/yinxiang.png"
+				
+			},
+			{
+				"id":167,
+				"name":"耳机工厂",
+				"pic":"/static/img/category/erji.png"
+				
+			},
+			{
+				"id":166,
+				"name":"专业音响",
+				"pic":"/static/img/category/yinxiangzy.png"
+				
+			},
+			{
+				"id":168,
+				"name":"灯光工厂",
+				"pic":"/static/img/category/lamplight.png"
+			},
+			{
+				"id":243,
+				"name":"手机通讯",
+				"pic":"/static/img/category/iPhone.png"
+				
+			},
+			{
+				"id":244,
+				"name":"数码工厂",
+				"pic":"/static/img/category/shuma.png"
+				
+		}
+		]
+	}
+	
+}

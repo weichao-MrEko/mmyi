@@ -1,0 +1,14 @@
+{
+	"zh":{
+		"title":"账号安全",
+		"NickName":"昵称",
+		"ChangePassword":"修改密码",
+		"ModifyEmail":"修改邮箱"
+	},
+	"en":{
+		"title":"Nick Name",
+		"NickName":"NickName",
+		"ChangePassword":"ChangePassword",
+		"ModifyEmail":"ModifyEmail"
+	}
+}

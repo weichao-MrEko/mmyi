@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"myname{ width: 100%; height: 100vh; background: #f4f4f4; }\n.",[1],"inputbox{ width: 90%; margin: auto; padding: 5% 0; }\n.",[1],"inputbox wx-input{ background: #FFFFFF; height: 2rem; border-radius: 5px; padding-left: 10px; }\n.",[1],"mini-btn{ margin: auto; width: 90%; }\n",],undefined,{path:"./pages/user/myname/myname.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/user/myname/myname.wxml') } }));

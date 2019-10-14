@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "实名认证",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "bounce": "none",
+  "softinputNavBar": "none",
+  "usingComponents": {
+    "choose-image": "/components/chooseImage"
+  }
+}

@@ -1,0 +1,1 @@
+<view><view class="Decoration"><image src="{{bgimg}}"></image><view class="suggest">建议尺寸：1080像素*615像素</view></view><button data-event-opts="{{[['tap',[['change',['$event']]]]]}}" style="color:#666;margin:20rpx;" bindtap="__e">更换背景图</button><choose-image class="vue-ref" vue-id="1" imgList="{{imgList}}" langth="{{1}}" data-ref="child" bind:__l="__l"></choose-image></view>

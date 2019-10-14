@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的店铺",
+  "navigationBarBackgroundColor": "#e84148",
+  "navigationBarTextStyle": "white",
+  "titleNView": {
+    "type": "transparent"
+  },
+  "usingComponents": {}
+}

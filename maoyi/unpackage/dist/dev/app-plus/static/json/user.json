@@ -1,0 +1,46 @@
+{
+	"zh":{
+		"mytoolbarList":[
+					{"id":"0","url":"../../integral/integral","text":"积分管理","img":"/static/img/user/choujiang.png"},
+					{"id":"1","url":"../../user/account/account","text":"账号管理","img":"/static/img/user/quan.png"}, 
+					{"id":"2","url":"../../user/competitive/competitive","text":"我的竞标","img":"/static/img/user/renw.png"},
+					{"id":"3","url":"../../user/deposit/deposit","text":"充值中心","img":"/static/img/user/momey.png"},
+					{"id":"4","url":"../../product/product","text":"我的产品","img":"/static/img/user/addr.png"},
+					
+					{"id":"6","url":"../../shop/shopType/shopType","text":"商铺管理","img":"/static/img/user/bank.png"},
+					{"id":"7","url":"../../user/keep/keep","text":"收藏","img":"/static/img/user/point.png"}
+				],
+		"shopbarList":[
+			{"id":"6","url":"../../shop/check/check","text":"开启商铺","img":"/static/img/user/bank.png"}
+		],
+		"toolbar":"我的工具栏",
+		"amount":{
+				"integral":"积分",
+				"brokerage":"佣金",
+				"remainingSum" :"余额",
+				"Recharge":"充值"
+		}
+	},
+	"en":{
+		"mytoolbarList":[
+					{"id":"0","url":"../../integral/integral","text":"PointManagement","img":"/static/img/user/choujiang.png"},
+					{"id":"1","url":"../../user/account/account","text":"AccountManagement","img":"/static/img/user/quan.png"}, 
+					{"id":"2","url":"","text":"I Bid","img":"/static/img/user/renw.png"},
+					{"id":"3","url":"../../user/deposit/deposit","text":"VoucherCenter","img":"/static/img/user/momey.png"},
+					{"id":"4","url":"../../product/product","text":"MyProduct","img":"/static/img/user/addr.png"},
+				
+					{"id":"6","url":"../../shop/shopType/shopType","text":"ShopManagement","img":"/static/img/user/bank.png"},
+					{"id":"7","url":"../../user/keep/keep","text":"Enshrine","img":"/static/img/user/point.png"}
+				],
+		"shopbarList":[
+			{"id":"6","url":"../../shop/check/check","text":"Open a store","img":"/static/img/user/bank.png"}
+		],
+		"toolbar":"Toolbar",
+		"amount":{
+				"integral":"Integral",
+				"brokerage":"Brokerage",
+				"remainingSum":"RemainingSum",
+				"Recharge":"Recharge"
+		}
+	}
+}

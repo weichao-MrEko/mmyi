@@ -1,0 +1,1 @@
+<import src="/components/uni-indexed-list/uni-indexed-list.vue.wxml" /><template name="77b2e632"><template bindtap="handleProxy" data-eventid="{{'77b2e632-0'}}" data-comkey="{{$k}}" data="{{...$root['0'], ...$root[$kk+'77b2e632-0'],$root}}" is="f0f4c4e2"></template></template>

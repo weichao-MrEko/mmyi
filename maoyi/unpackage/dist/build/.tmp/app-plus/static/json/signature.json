@@ -1,0 +1,12 @@
+{
+	"zh":{
+		"title":"个性签名",
+		"placeholder":"请输入个性签名",
+		"btn":"保存"
+	},
+	"en":{
+		"title":"Personalized Signature",
+		"placeholder":"Please enter your personal signature",
+		"btn":"Save"
+	}
+}
